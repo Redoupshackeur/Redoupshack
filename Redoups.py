@@ -20,6 +20,6 @@ print("\033[1;32m[1]\033[0;93m b-Api[soon]")
 print("\033[1;32m[2]\033[0;93m free[best]")
 xx = input("\033[1;34m[+] chose method brute force : \033[0;93m")
 if xx in ["1", "01"]:
-	os.system("python b-api-brute.py")
+	os.system("python b-api-Redoups.py")
 if xx in ["2", "02"]:
 	os.system("python Redoups.py
